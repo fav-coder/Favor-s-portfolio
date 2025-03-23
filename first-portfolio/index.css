@@ -1,0 +1,136 @@
+html{
+    padding: 0;
+    margin: 0;
+    background-color: lightblue;
+    font-family: winky, sans-serif;
+}
+.navbar {
+    display: inline;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+
+
+
+}
+.nav-list{
+
+    display: flex;
+    list-style-type: none;
+     float: right;
+
+
+}
+.nav-list li {
+    margin: 20px;
+
+
+
+
+
+
+}
+.nav-list li a{
+    font-size: 20px;
+    font-weight: 50;
+    color: black;
+    text-decoration: none;
+
+    
+
+}
+.logo{
+    width: 4vw;
+    height: 9vh;
+}
+.main-content  {
+    display: flex;
+    margin-top: 60px;
+    padding: 30px;
+    justify-content: space-between;
+
+}
+.background-image{
+    border-radius: 100%;
+    width: 25vw;
+    height: 80vh;
+    margin-left: 30px;
+    border: 3px hotpink solid;
+    margin-top: 100px;
+
+}
+.background-text{
+    margin-top: 150px;
+}
+.hello{
+    font-size: 25px;
+    margin-top: 140px;
+}
+button{
+    background-color: plum;
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 30px;
+
+}
+.home-sci{
+    margin-top: 0;
+    padding-top: 0;
+    text-align: end;
+    margin-right: 70px;
+}
+#about-me{
+   margin-bottom: 80px;
+    padding: 10px   ;
+
+}
+.heading-text{
+    padding: 20px;
+    font-size: 25px;
+    color: black;
+
+
+}
+#projects{
+    padding: 10px;
+
+
+}
+.project-1{
+    width: 25vw;
+    height: 40vh;
+    margin-right: 60px;
+    border-radius: 15px;
+}
+.project-2{
+    width: 25vw;
+    height: 40vh;
+     margin-right:60px;
+    border-radius: 15px;
+}
+.project-3{
+    width: 25vw;
+    height: 40vh;
+     margin-right: 60px;
+    border-radius: 15px;
+}
+#contact-me{
+    padding: 10px;
+}
+
+
+hr{
+    margin: 1px;
+    height: 2px;
+    background-color: plum  ;
+    border: none;
+
+}
+.hr2{
+    height:2px ;
+}
+u{
+    color: black;
+}
