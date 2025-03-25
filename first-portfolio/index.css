@@ -48,6 +48,7 @@ html{
     margin-top: 60px;
     padding: 30px;
     justify-content: space-between;
+    margin-left: 40px;
 
 }
 .background-image{
@@ -55,7 +56,6 @@ html{
     width: 25vw;
     height: 80vh;
     margin-left: 30px;
-    border: 3px hotpink solid;
     margin-top: 100px;
 
 }
@@ -69,7 +69,7 @@ html{
 button{
     background-color: plum;
     border: none;
-    width: 80px;
+    width: 100px;
     height: 30px;
     border-radius: 5px;
     margin-top: 30px;
@@ -79,7 +79,7 @@ button{
     margin-top: 0;
     padding-top: 0;
     text-align: end;
-    margin-right: 70px;
+    margin-right: 120px;
 }
 #about-me{
    margin-bottom: 80px;
